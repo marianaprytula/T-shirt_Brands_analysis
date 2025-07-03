@@ -30,7 +30,7 @@ This project presents an interactive Power BI dashboard that analyzes the T-shir
 ## 🧹 Data cleaning and processing 
 
 -  **Removing Currency signs from Price columns**
- - Using DAX functions
+ - Using DAX functions:
     -  **Filtering N/A values**
     -  **Adding Discount % column**
     -  **Creating Profit % column** as a random int value between 1 and 17 
