@@ -44,6 +44,11 @@ This project presents an interactive Power BI dashboard that analyzes the T-shir
 -  **Top 5 Brands** by average discount percentage, distinct title count, average sales price, average profit percentage. 
 -  **Bottom 5 Brands** by average profit percentage.
 
+![Details_part_1](dashboard_images/Details_part_1.jpg "A screenshot showing the Details_part_1.") 
+
+![Details_part_2](dashboard_images/Details_part_2.jpg "A screenshot showing the Details_part_2.") 
+
+![List_of_Brands](dashboard_images/List_of_Brands.jpg "A screenshot showing the List_of_Brands.") 
 ---
 
 
